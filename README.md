@@ -18,5 +18,5 @@ Update API call response
 - Mongoose ORM
 - Express 
 # Testing
- -API Testing --> Postman
- -MongoDB data monitering --> MongoDB Compass
+ - API Testing Postman
+ - MongoDB data monitering  MongoDB Compass
