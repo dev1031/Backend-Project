@@ -13,8 +13,10 @@ After Update MongoDb collection
 Update API call response
 ![backend](./update.png)
 # Tech/framework used
-
 - Node
 - MongoDB
 - Mongoose ORM
 - Express 
+# Testing
+ -API Testing --> Postman
+ -MongoDB data monitering --> MongoDB Compass
